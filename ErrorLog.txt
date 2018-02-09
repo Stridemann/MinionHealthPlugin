@@ -1,0 +1,344 @@
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------
+
+Log Entry : 0:14:37 8 февраля 2018 г.
+ Method error: Render : System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в PoeHUD.Hud.UI.Renderers.FontRenderer.DrawText(String text, String fontName, Int32 height, Vector2 position, Color color, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Renderers\FontRenderer.cs:строка 29
+   в PoeHUD.Hud.UI.Graphics.DrawText(String text, Int32 height, Vector2 position, FontDrawFlags align) в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Hud\UI\Graphics.cs:строка 132
+   в MinionHealthPlugin.MinionHealthPlugin.Render() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\bin\x64\Debug\plugins\MinionHealthPlugin\src\MinionHealthPlugin\MinionHealthPlugin.cs:строка 105
+   в PoeHUD.Plugins.BasePlugin.iRender() в C:\Users\Stridemann\Desktop\PoEHUD-x64\src\Plugins\BasePlugin.cs:строка 53
+-------------------------------

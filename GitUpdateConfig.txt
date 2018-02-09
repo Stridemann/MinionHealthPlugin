@@ -1,0 +1,8 @@
+Owner: Stridemann
+Name: MinionHealthPlugin
+Repository
+
+Ignore:
+src
+.gitignore
+LICENSE
