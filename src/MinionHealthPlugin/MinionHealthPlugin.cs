@@ -28,6 +28,16 @@ namespace MinionHealthPlugin
         public override void Initialise()
         {
             GameController.Area.OnAreaChange += Area_OnAreaChange;
+            
+            var item = GameController.Game.IngameState.IngameUi.InventoryPanel[InventoryIndex.PlayerInventory][0, 0, 12];
+            if (item == null)
+            {
+                LogMessage("Not found!", 10);
+                return;
+            }
+            LogMessage(item.Path, 10);
+            LogMessage(item.Address.ToString("x"), 10);
+            
         }
 
         private void Area_OnAreaChange(PoeHUD.Controllers.AreaController obj)
@@ -66,12 +76,18 @@ namespace MinionHealthPlugin
                     newMinion.Name = "WickerMan";
                     MainMinions.Add(newMinion);
                 }
+                else if (path.Contains("Metadata/Monsters/AnimatedItem/AnimatedArmour"))
+                {
+                    newMinion.Type = 3;
+                    newMinion.Name = "Animated Guardian";
+                    MainMinions.Add(newMinion);
+                }
                 else if (path.Contains("Metadata/Monsters/KaomWarrior/KaomWarrior"))
                 {
                     newMinion.Type = 1;
                     newMinion.Name = "KaomWarrior";
                     MainMinions.Add(newMinion);
-                }
+                }    
                 else
                 {
                     newMinion.Name = "Meat";

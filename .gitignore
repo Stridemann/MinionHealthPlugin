@@ -287,3 +287,4 @@ __pycache__/
 *.xsd.cs
 
 /src/MinionHealthPlugin/Properties/
+/config.ini
