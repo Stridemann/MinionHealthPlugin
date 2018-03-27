@@ -28,16 +28,6 @@ namespace MinionHealthPlugin
         public override void Initialise()
         {
             GameController.Area.OnAreaChange += Area_OnAreaChange;
-            
-            var item = GameController.Game.IngameState.IngameUi.InventoryPanel[InventoryIndex.PlayerInventory][0, 0, 12];
-            if (item == null)
-            {
-                LogMessage("Not found!", 10);
-                return;
-            }
-            LogMessage(item.Path, 10);
-            LogMessage(item.Address.ToString("x"), 10);
-            
         }
 
         private void Area_OnAreaChange(PoeHUD.Controllers.AreaController obj)
@@ -52,7 +42,6 @@ namespace MinionHealthPlugin
             {
                 AllMinions.Add(entity);
 
-           
                 string path = entity.Path;
                 if (string.IsNullOrEmpty(path)) return;
 
@@ -80,6 +69,12 @@ namespace MinionHealthPlugin
                 {
                     newMinion.Type = 3;
                     newMinion.Name = "Animated Guardian";
+                    MainMinions.Add(newMinion);
+                }
+                else if (path.Contains("Metadata/Monsters/HolyFireElemental/HolyFireElementalSolarisBeam"))
+                {
+                    newMinion.Type = 3;
+                    newMinion.Name = "Solar Guard";
                     MainMinions.Add(newMinion);
                 }
                 else if (path.Contains("Metadata/Monsters/KaomWarrior/KaomWarrior"))
@@ -176,6 +171,7 @@ namespace MinionHealthPlugin
                 }
                 float perc = (float)lifeComp.CurHP / lifeComp.MaxHP;
                 DrawMinionLifebar(partialDrawRect, perc);
+                Graphics.DrawText(lifeComp.MaxHP.KiloFormat() + " hp", 15, partialDrawRect.Center, FontDrawFlags.Center | FontDrawFlags.VerticalCenter);
                 partialDrawRect.X += partialDrawRect.Width;
             }
             mainRect.Y -= 30;
